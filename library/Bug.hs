@@ -2,6 +2,7 @@ module Bug
 where
 
 import Prelude
+import Data.Functor
 import Language.Haskell.TH.Syntax
 import qualified Bug.Formatting as B
 
